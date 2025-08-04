@@ -16,8 +16,6 @@ const mainObjDomainNameParts = {
     },
 
     arrayDomain: [".com", ".es", ".net", ".eu", ".info"]
-
-
 };
 
 function funRandomElement(arrayParam) {
