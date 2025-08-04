@@ -1,34 +1,12 @@
 {
-<<<<<<< HEAD
   "name": "generador-de-nombres-de-dominios",
-=======
-  "name": "generador-de-excusas-v2",
->>>>>>> afaf4e7163754fa455be6cb0ccb514176c53f0f8
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-<<<<<<< HEAD
-=======
- 
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/4GeeksAcademy/generador_excusas_v2-diegobs.git"
->>>>>>> afaf4e7163754fa455be6cb0ccb514176c53f0f8
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
   "description": ""
 }
-=======
-  "bugs": {
-    "url": "https://github.com/4GeeksAcademy/generador_excusas_v2-diegobs/issues"
-  },
-  "homepage": "https://github.com/4GeeksAcademy/generador_excusas_v2-diegobs#readme",
-  "description": ""
-}
-
->>>>>>> afaf4e7163754fa455be6cb0ccb514176c53f0f8
